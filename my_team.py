@@ -9,7 +9,7 @@
 # from util import nearest_point
 
 from contest.capture_agents import CaptureAgent
-import contest.distance_calculator import distance_calculator
+from contest.distance_calculator import distance_calculator
 import random
 import time
 import sys
